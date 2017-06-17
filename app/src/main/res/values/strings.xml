@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PatialaTourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="Hos1">Rajindra Hospital</string>
+    <string name="Hos2">Polo ground, Patiala Cant2 ,147003</string>
+    <string name="Hos3">Columbia Asia</string>
+    <string name="Hos4">Leela Bhawan,22 No phatak ,147004</string>
+    <string name="Mall1">Omaxe Mall</string>
+    <string name="Mall2">Opposite kali mata temple,Patiala 147005</string>
+    <string name="s1">Guru Nanak Foundation Public School</string>
+    <string name="s2">Sular Road ,Patiala 147111</string>
+    <string name="s3">British CO-ED school</string>
+    <string name="s4">Opposite Polo ground,Patiala 147001</string>
+    <string name="t1">Kali Mata Mandir</string>
+    <string name="t2">Mall Road ,Patiala 147012</string>
+    <string name="t3">Dukhniwaran Sahib</string>
+    <string name="t4">Sirhind Road,Patiala 147003</string>
+    <string-array name="my_array">
+            <item>string1</item>
+            <item>string2</item>
+            <item>string3</item>
+        </string-array>
+</resources>
